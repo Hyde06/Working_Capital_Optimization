@@ -1,4 +1,4 @@
-# Working_Capital_Optimization
+# Working_Capital_Optimization_using_Predictive_Analytics
 ## Aim
 The strategic management of a company's current assets and liabilities is known as working capital optimization, and its goal is to improve both operational and financial health. The primary objective is to achieve optimal liquidity by balancing accounts payable (AP) and accounts receivable (AR) in a way that minimizes expenses and hazards.
 
